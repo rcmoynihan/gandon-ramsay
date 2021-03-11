@@ -2,6 +2,8 @@
 *.csv
 *.json
 *.zip
+*.txt
+glove_vectors/*
 
 
 # Byte-compiled / optimized / DLL files
